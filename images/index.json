@@ -1,3 +1,10 @@
 {
-  "version": "1.0"
+  "version": "1.0",
+  "groups": {
+    "faces": [
+      "boy-01.jpg",
+      "girl-01.jpg",
+      "oldie-01.jpg"
+    ]
+  }
 }
